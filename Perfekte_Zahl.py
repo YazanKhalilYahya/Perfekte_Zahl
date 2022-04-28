@@ -14,21 +14,3 @@ else:
 
 
 
-
-
-
-"""import sys
-zahl = int(input())
-mylist = []
-for i in range(1, zahl):
-    if zahl % i == 0:
-        mylist.append(i)
-
-total = sum(mylist)
-
-
-if total == zahl:
-    print(zahl, "ist eine perfekte Zahl.")
-else:
-    print(zahl, "ist keine perfekte Zahl.")
-"""
